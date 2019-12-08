@@ -5,14 +5,14 @@ Many theories of communication claim that perspective-taking is a fundamental co
 Communication, perspective-taking, audience design, interaction, word associations
 
 First Header | Second Header
------------- | -------------
+------------ 
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 **Data dictionary**
 
 Variable | Levels/values | Comments
------------- | -------------
+------------ | ------------- | -------------
 Condition | 0 = Experiment 1, 1 = Experiment 2 |
 Trial_no | 1-120 |
 Round_no | 1-6 | Only actually meaningful in Experiment 1 where each round was 50/50 balanced with symmetric and asymmetric target words
