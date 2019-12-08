@@ -4,7 +4,7 @@ Many theories of communication claim that perspective-taking is a fundamental co
 **Key words** \
 Communication, perspective-taking, audience design, interaction, word associations
 
-**THE exp1_exp2_dataframe.csv FILE CONTAINS ANONYMISED DATA FROM BOTH EXPERIMENTS (SEE DICTIONARY BELOW)**
+**THE exp1_exp2_dataframe.csv FILE CONTAINS ANONYMISED DATA FROM BOTH EXPERIMENTS **
 
 **Data dictionary**
 
