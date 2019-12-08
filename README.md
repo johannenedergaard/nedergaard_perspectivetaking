@@ -1,10 +1,10 @@
-**Abstract**
+**Abstract** \
 Many theories of communication claim that perspective-taking is a fundamental component of the successful design of utterances for a specific audience (e.g. Sperber & Wilson, 1995; Clark, 1996). The present study aimed to investigate perspective-taking as a stand-alone mechanism in a constrained communication situation. Participants played a word guessing game where each trial required them to communicate a target word without context. In each game consisting of six rounds, pairs of participants took turns giving and receiving clues to guess target words, both receiving full feedback (correct/incorrect, target, and guess) after each trial. In Experiment 1, none of the measures of participants’ performance improved over rounds, suggesting either that participants were unable to improve their perspective-taking of their own accord or that the task was simply too demanding for other reasons. In Experiment 2, I tested whether this lack of improvement was due to overall difficulty rather than inability to take perspective. With more elaborate feedback (including suggestions for better clue words) and easier target items, performance did appear to improve. The results of these two experiments show that perspective-taking is effortful and demanding when there is no context to ground either signal choice or interpretation.
 
-**Key words**
-Communication  perspective-taking  audience design  interaction  word associations
+**Key words** \
+Communication, perspective-taking, audience design, interaction, word associations
 
-**Data dictionary**
+**Data dictionary** \
 
 Variable | Levels/values | Comments
 ------------ | -------------
